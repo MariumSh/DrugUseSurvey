@@ -1,0 +1,198 @@
+t1 = <b>1:</b> Sleeping pills such as valium, diazepam, Xanax, Ativan, lexotanil, Tranquilizers and Sedatives such as mysol, primidone, phenobarbitone, amobarbital, Valium, Lexotanial
+
+t1_c1 = Have you ever used <b>Sleeping pills</b>?
+t1_c1_1 = Yes
+t1_c1_2 = No
+
+t1_c2 = Age at first time used
+
+t1_c3 = Used <b>Sleeping pills</b> in the last 12 months?
+t1_c3_1 = Yes
+t1_c3_2 = No
+
+t1_c4 = How often used in last 30 days (Sleeping pills)
+t1_c4_1 = Once
+t1_c4_2 = 2-3 days a month
+t1_c4_3 = About once a week
+t1_c4_4 = 2-3 days a week
+t1_c4_5 = 4-6 days a week
+t1_c4_6 = Almost Every day
+t1_c4_7 = Don’t know
+t1_c4_8 = Never
+
+t1_c5 = Usual method of use (Sleeping pills)?
+t1_c5_1 = Inject
+t1_c5_2 = Eat/Drink
+t1_c5_3 = Inhale
+t1_c5_4 = All above
+t1_c5_5 = Don’t know
+
+t1_c6 = Average amount spent in last 30 days (Rupees) for Sleeping pills
+
+t1_c7 = Do you feel dependent after using Sleeping pills?
+t1_c7_1 = Yes
+t1_c7_2 = No
+
+t1_c8 = Have you ever given Sleeping pills to any of your household member including children?
+t1_c8_1 = Yes
+t1_c8_2 = No
+
+
+t2 = <b>2:</b> Painkillers such as Temgesic, Morphine, Pentazocine, Opana, buprenorphine , Tramadol, tronoflex. Therapeutic drugs made from opiates used to relieve pain (opana, modrin, morphine)
+
+t2_c1 = Have you ever used <b>Painkillers</b>?
+t2_c1_1 = Yes
+t2_c1_2 = No
+
+t2_c2 = Age at first time used
+
+t2_c3 = Used <b>Painkillers</b> in the last 12 months?
+t2_c3_1 = Yes
+t2_c3_2 = No
+
+t2_c4 = How often used in last 30 days (Painkillers)
+t2_c4_1 = Once
+t2_c4_2 = 2-3 days a month
+t2_c4_3 = About once a week
+t2_c4_4 = 2-3 days a week
+t2_c4_5 = 4-6 days a week
+t2_c4_6 = Almost Every day
+t2_c4_7 = Don’t know
+t2_c4_8 = Never
+
+t2_c5 = Usual method of use (Painkillers)?
+t2_c5_1 = Inject
+t2_c5_2 = Eat/Drink
+t2_c5_3 = Inhale
+t2_c5_4 = All above
+t2_c5_5 = Don’t know
+
+t2_c6 = Average amount spent in last 30 days (Rupees) for Painkillers
+
+t2_c7 = Do you feel dependent after using Painkillers?
+t2_c7_1 = Yes
+t2_c7_2 = No
+
+t2_c8 = Have you ever given Painkillers to any of your household member including children?
+t2_c8_1 = Yes
+t2_c8_2 = No
+
+
+t3 = <b>3:</b> Amphetamines such as Ritalin
+
+t3_c1 = Have you ever used <b>Amphetamines</b>?
+t3_c1_1 = Yes
+t3_c1_2 = No
+
+t3_c2 = Age at first time used
+
+t3_c3 = Used <b>Amphetamines</b> in the last 12 months?
+t3_c3_1 = Yes
+t3_c3_2 = No
+
+t3_c4 = How often used in last 30 days (Amphetamines)
+t3_c4_1 = Once
+t3_c4_2 = 2-3 days a month
+t3_c4_3 = About once a week
+t3_c4_4 = 2-3 days a week
+t3_c4_5 = 4-6 days a week
+t3_c4_6 = Almost Every day
+t3_c4_7 = Don’t know
+t3_c4_8 = Never
+
+t3_c5 = Usual method of use (Amphetamines)?
+t3_c5_1 = Inject
+t3_c5_2 = Eat/Drink
+t3_c5_3 = Inhale
+t3_c5_4 = All above
+t3_c5_5 = Don’t know
+
+t3_c6 = Average amount spent in last 30 days (Rupees) for Amphetamines
+
+t3_c7 = Do you feel dependent after using Amphetamines?
+t3_c7_1 = Yes
+t3_c7_2 = No
+
+t3_c8 = Have you ever given Amphetamines to any of your household member including children?
+t3_c8_1 = Yes
+t3_c8_2 = No
+
+
+t4 = <b>4:</b> Cough syrup such as prometh, dextromethorphan with codeine
+
+t4_c1 = Have you ever used <b>Cough syrup</b>?
+t4_c1_1 = Yes
+t4_c1_2 = No
+
+t4_c2 = Age at first time used
+
+t4_c3 = Used <b>Cough syrup</b> in the last 12 months?
+t4_c3_1 = Yes
+t4_c3_2 = No
+
+t4_c4 = How often used in last 30 days (Cough syrup)
+t4_c4_1 = Once
+t4_c4_2 = 2-3 days a month
+t4_c4_3 = About once a week
+t4_c4_4 = 2-3 days a week
+t4_c4_5 = 4-6 days a week
+t4_c4_6 = Almost Every day
+t4_c4_7 = Don’t know
+t4_c4_8 = Never
+
+t4_c5 = Usual method of use (Cough syrup)?
+t4_c5_1 = Inject
+t4_c5_2 = Eat/Drink
+t4_c5_3 = Inhale
+t4_c5_4 = All above
+t4_c5_5 = Don’t know
+
+t4_c6 = Average amount spent in last 30 days (Rupees) for Cough syrup
+
+t4_c7 = Do you feel dependent after using Cough syrup?
+t4_c7_1 = Yes
+t4_c7_2 = No
+
+t4_c8 = Have you ever given Cough syrup to any of your household member including children?
+t4_c8_1 = Yes
+t4_c8_2 = No
+
+
+t5 = <b>5:</b> Opium
+
+t5_c1 = Have you ever used <b>Opium</b>?
+t5_c1_1 = Yes
+t5_c1_2 = No
+
+t5_c2 = Age at first time used
+
+t5_c3 = Used <b>Opium</b> in the last 12 months?
+t5_c3_1 = Yes
+t5_c3_2 = No
+
+t5_c4 = How often used in last 30 days (Opium)
+t5_c4_1 = Once
+t5_c4_2 = 2-3 days a month
+t5_c4_3 = About once a week
+t5_c4_4 = 2-3 days a week
+t5_c4_5 = 4-6 days a week
+t5_c4_6 = Almost Every day
+t5_c4_7 = Don’t know
+t5_c4_8 = Never
+
+t5_c5 = Usual method of use (Opium)?
+t5_c5_1 = Inject
+t5_c5_2 = Eat/Drink
+t5_c5_3 = Inhale
+t5_c5_4 = All above
+t5_c5_5 = Don’t know
+
+t5_c6 = Average amount spent in last 30 days (Rupees) for Opium
+
+t5_c7 = Do you feel dependent after using Opium?
+t5_c7_1 = Yes
+t5_c7_2 = No
+
+t5_c8 = Have you ever given Opium to any of your household member including children?
+t5_c8_1 = Yes
+t5_c8_2 = No

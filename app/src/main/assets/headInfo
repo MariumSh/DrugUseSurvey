@@ -1,0 +1,13 @@
+headName = Enter the name of the Head of Household
+
+headAge = Enter age of Head
+
+headGender = Specify gender of the Head of Household
+headGender_1 = Male
+headGender_2 = Female
+headGender_3 = Other
+
+houseUtils = Specify household utilities
+houseUtils1 = Electricity
+houseUtils2 = Water
+houseUtils3 = Both

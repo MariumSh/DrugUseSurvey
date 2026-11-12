@@ -1,0 +1,18 @@
+[submodule "modules/utils"]
+	path = modules/utils
+	url = https://github.com/PakistanBureauOfStatistics/TDS-Utils.git
+[submodule "modules/schema"]
+	path = modules/schema
+	url = https://github.com/PakistanBureauOfStatistics/TDS-DatabaseSchemaGenerator.git
+[submodule "modules/database"]
+	path = modules/database
+	url = https://github.com/PakistanBureauOfStatistics/TDS-Database.git
+[submodule "modules/main"]
+	path = modules/main
+	url = https://github.com/PakistanBureauOfStatistics/TDS-Main.git
+[submodule "modules/formBuilder"]
+	path = modules/formBuilder
+	url = https://github.com/PakistanBureauOfStatistics/TDS-FormBuilder.git
+[submodule "modules/geoMap"]
+	path = modules/geoMap
+	url = https://github.com/PakistanBureauOfStatistics/TDS-GeoMap.git

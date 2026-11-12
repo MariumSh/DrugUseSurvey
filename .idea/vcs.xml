@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/formBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/geoMap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/schema" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/utils" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,51 @@
+c1= Serial No
+c2= NAme of houshold members who usually live here.
+_c2=Do not include guest,visitors etc.
+
+c3= What is Relationship to head of the household?
+c3_1=Head of Household
+c3_2=Spouse
+c3_3=Son/Daughter(unmarried)
+c3_4=Son/Daughter(married)
+c3_5 Father/Mother
+c3_6-Brother/Sister
+c3_7=Daughter/Son (In Law)
+c3_8=Other Relative
+c3_9=Servant
+c3_10=Non-Relative
+
+c4= Present Status
+c4_1=Present
+c4_2=Temporarily Absent
+
+c5= Gender
+c5_1=Male
+c5_2=Female
+
+c6=  Last Birthday Age
+
+c7= What is current Marital Status?
+c7_1=Never Married
+c7_2=Married
+c7_3=Widow/Widower
+c7_4=Divroced
+c7_5=Separated
+c7_6=Nikkahfied
+
+c8=What is mother Tongue?
+c8_1=Uudu
+c8_2=Punjabi
+c8_3=Pashto
+c8_4=Sindhi
+c8_5=Balochi
+c8_6=Sariki
+c8_7=Popthari
+c8_8=Chitrali/Sheno
+c8_9-Hindko
+c8_10=Kashmiri
+c8_11=Balti
+c8_12=Other
+
+c9=Put personal number of Eligible Members aged 15-64
+
+

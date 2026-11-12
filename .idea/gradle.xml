@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/modules/database/Database" />
+            <option value="$PROJECT_DIR$/modules/formBuilder/FormBuilder" />
+            <option value="$PROJECT_DIR$/modules/geoMap/GeoMap" />
+            <option value="$PROJECT_DIR$/modules/main/TDS" />
+            <option value="$PROJECT_DIR$/modules/schema/DatabaseSchemaGenerator" />
+            <option value="$PROJECT_DIR$/modules/utils/Utils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

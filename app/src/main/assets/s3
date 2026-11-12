@@ -1,0 +1,90 @@
+c1 = How would you rate your health today?
+c1_1 = Very good
+c1_2 = Good
+c1_3 = Moderate
+c1_4 = Bad
+c1_5 = Very bad
+
+c2_1 = Have you ever been diagnosed for high blood pressure by the doctor?
+c2_1_1 = Yes
+c2_1_2 = No
+
+c2_2 = Are you currently under any treatment/medication? (High blood pressure)
+c2_2_1 = Yes
+c2_2_2 = No
+
+c3_1 = Have you ever been diagnosed with any heart disease by the doctor?
+c3_1_1 = Yes
+c3_1_2 = No
+
+c3_2 = Are you currently under any treatment/medication? (Heart disease)
+c3_2_1 = Yes
+c3_2_2 = No
+
+c4_1 = Have you ever been diagnosed for diabetes by the doctor?
+c4_1_1 = Yes
+c4_1_2 = No
+
+c4_2 = Are you currently under any treatment/medication? (Diabetes)
+c4_2_1 = Yes
+c4_2_2 = No
+
+c5_1 = Is there any other health problem or illness that is diagnosed by the doctor?
+c5_1_1 = Yes (specify)
+c5_1_2 = No
+
+c5_2 = Are you currently under any treatment/medication? (Other health problem)
+c5_2_1 = Yes
+c5_2_2 = No
+
+c6 = Have you ever in LIFE TIME stayed overnight or longer in hospital or other health facility for your health conditions?
+c6_1 = Yes
+c6_2 = No
+
+c6_1 = What was the condition (most frequent & recent) for which you were hospitalized?
+
+c7 = What type of organization operates this hospital or health facility?
+c7_1 = Government
+c7_2 = Private
+c7_3 = Non-governmental organization (NGO)
+c7_4 = Others
+c7_5 = Don’t know
+
+c8 = In the past 12 months have you stayed overnight or longer in hospital or other health facility for your health condition?
+c8_1 = Yes
+c8_2 = No
+
+c8_1 = What was the condition for which you were hospitalized? (most frequent and recent condition)
+
+c9 = What type of organization operates this hospital or health facility? (Past 12 months)
+c9_1 = Government
+c9_2 = Private
+c9_3 = Non-governmental organization (NGO)
+c9_4 = Others
+c9_5 = Don’t know
+
+c10 = Generally, when you fall sick (other than fever, cough and cold) where do you seek assistance?
+c10_1 = Govt. hospital or dispensary
+c10_2 = Private hospital
+c10_3 = Local general practitioners clinic
+c10_4 = local female health worker
+c10_5 = Homeopathic physician
+c10_6 = Dispenser
+c10_7 = Hakeem
+c10_8 = seek advice from friend/neighbor
+c10_9 = Self-medication
+c10_10 = Others
+
+c11 = Have you ever taken any medicines (other than aspirin or paracetamol for fever or medicines for cough and cold) for any other health conditions without the advice of doctor?
+c11_1 = Yes
+c11_2 = No
+
+c11_1 = Which medicine did you take? (Most frequent/latest medicine)
+c11_2 = For what condition did you take the medicine?
+
+c12 = Have you taken any medicines (other than aspirin or paracetamol for fever or medicines for cough and cold) in the past 12 months for any other health conditions without the advice of doctor?
+c12_1 = Yes
+c12_2 = No
+
+c12_1 = Which medicine did you take? (Most frequent or latest medicine)
+c12_2 = For what condition did you take the medicine?

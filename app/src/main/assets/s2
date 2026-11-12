@@ -1,0 +1,62 @@
+
+c1_1=How long have you been living at this address? (Months)
+c1_2 = How long have you been living at this address? (Years)
+
+c2 = Can (name) read and write a simple statement in any language with understanding?
+c2_1 = Yes
+c2_2 = No
+
+c3 = Have you ever attended school?
+c3_1 = Yes
+c3_2 = No
+
+c4 = What is the highest level of education you have reached/completed?
+c4_1 = Primary/equivalent (up to 5 years)
+c4_2 = Middle/Equivalent (up to 8 years)
+c4_3 = Secondary /Equivalent (up to 10 years)
+c4_4 = Higher Secondary School/Equivalent (up to 12 years)
+c4_5 = Graduate/Equivalent
+c4_6 = Postgraduate/equivalent
+c4_7 = Other Professional Education
+#_c4=    Specify Other
+
+c5 = Are you currently working?
+c5_1 = Yes
+c5_2 = No
+
+_c5 = What is your employment type?
+_c5_1 = Full time
+_c5_2 = Part time
+_c5_3 = Casual work
+
+c6 = If employed, what type of job/work do you do?
+c6_1 = Own private business
+c6_2 = Govt. employee
+c6_3 = Private employee
+c6_4 = Farmer owning land
+c6_5 = Farmer with no ownership of land (tenant)
+c6_6 = Contributing family worker
+c6_7 = Others
+#_c6= Specify Other
+
+c7_1 = How much monthly net money did you earn from all works / Jobs? (Cash Rs.)
+c7_2 = How much monthly net money did you earn from all works / Jobs? (Kind value in Rs.)
+
+c8_1 = What is your Total monthly Household income? (Cash Rs.)
+c8_2 = What is your Total monthly Household income? (Kind value in Rs.)
+
+c9 = If you are currently not working, how would you describe your current status?
+c9_1 = Unemployed (not seeking work)
+c9_2 = Long term sick /disabled
+c9_3 = Housekeeping looking after family
+c9_4 = Retired/pensioner
+c9_5 = Student
+c9_7 = Other
+#_c9=Specify Other
+
+c10 = Who financially supports you?
+c10_1 = Family
+c10_2 = Government
+c10_3 = NGO
+c10_4 = Community
+c10_5 = Others
