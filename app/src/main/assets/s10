@@ -1,0 +1,27 @@
+c1 = Have you ever been treated for problems related to drug use?
+c1_1 = Yes
+c1_2 = No
+
+c2 = How many times you have been treated in your entire life for drug related problems?
+c2_1 = Once
+c2_2 = 2-3 time
+c2_3 = 4-6 time
+c2_4 = 7 or more time
+
+c3 = How many times you have been treated in past 12 months?
+c3_1 = Once
+c3_2 = 2-3 time
+c3_3 = 4-6 time
+c3_4 = 7 or more time
+c3_5 = Never
+
+c4 = Where were you treated last time?
+c4_1 = Private clinic
+c4_2 = Govt. Hospital
+c4_3 = NGO/treatment center
+c4_4 = At home
+c4_5 = Other specify
+
+c5 = After recovering from drug related problems, did you return to using drugs?
+c5_1 = Yes
+c5_2 = No

@@ -1,0 +1,55 @@
+c1 = In the past 12 months, has someone, who had been using drugs harmed you physically?
+c1_1 = Yes
+c1_2 = No
+c1_3 = Refused
+c1_4 = Don’t know
+
+c2 = In the past 12 months, have you felt any danger or fear from a drug user at home or at any private gathering place?
+c2_1 = Yes
+c2_2 = No
+c2_3 = Refused
+c2_4 = Don’t know
+
+c3 = In the past 12 months, have you had family problems or marriage difficulties due to a family member’s use of drugs?
+c3_1 = Yes
+c3_2 = No
+c3_3 = Refused
+c3_4 = Don’t know
+
+c4 = In the past 12 months, have you had problems with a friend or neighbor due to their drug use?
+c4_1 = Yes
+c4_2 = No
+c4_3 = Refused
+c4_4 = Don’t know
+
+c5 = Did you stop seeing any friend, relative or neighbor because of their drug use?
+c5_1 = Yes
+c5_2 = No
+c5_3 = Refused
+c5_4 = Don’t know
+
+c6 = Did someone in the household spend less time working, going to school, taking care of children, doing hobbies or sports and spending time with family because of their drug use?
+c6_1 = Yes
+c6_2 = No
+c6_3 = Refused
+c6_4 = Don’t know
+
+c7 = In the past 12 months, has any family member or friend took money or valuable items from you for drug use?
+c7_1 = Yes
+c7_2 = No
+c7_3 = Refused
+c7_4 = Don’t know
+
+c8 = Interviewers Comments/Evaluation: Did any person in the household ask any information concerning prevention or treatment of drug use in the locality?
+c8_1 = Yes
+c8_2 = No
+
+c9 = Behavior of the respondent
+c9_1 = Co-operative
+c9_2 = Normal
+c9_3 = Reluctant/ hesitant
+c9_4 = Non serious/talkative
+c9_5 = Refusal
+
+c10_1 = Record the end time (Hours)
+c10_2 = Minutes

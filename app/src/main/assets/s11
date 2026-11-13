@@ -1,0 +1,30 @@
+c1 = What is the reason behind your drug use? (More than one option can be recorded)
+c1_1 = Peer Pressure
+c1_2 = Release Pain/ Stress
+c1_3 = Enjoyment/ Pleasure Seeking
+c1_4 = Psychological Problem
+c1_5 = Other
+
+c2 = Have you ever in your life had a period of time lasting several days or longer when most of the day you felt sad, empty or depressed?
+c2_1 = Yes
+c2_2 = No
+c2_3 = Refused
+c2_4 = Don’t know
+
+c3 = Have you ever had a period of time lasting several days or longer when most of the day you were very discouraged about how things were going in your life?
+c3_1 = Yes
+c3_2 = No
+c3_3 = Refused
+c3_4 = Don’t know
+
+c4 = Have you ever had a period of time lasting several days or longer when you lost interest in most things you usually enjoy like work, hobbies, and personal relationships?
+c4_1 = Yes
+c4_2 = No
+c4_3 = Refused
+c4_4 = Don’t know
+
+c5 = Did you ever have a period of time like this that lasted most of the day nearly every day and two weeks or longer?
+c5_1 = Yes
+c5_2 = No
+c5_3 = Refused
+c5_4 = Don’t know
