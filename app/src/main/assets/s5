@@ -1,0 +1,197 @@
+t1 = <b>1:</b> Manufactured Cigarettes
+t2 = <b>2:</b> Hand Rolled Cigarettes
+t3 = <b>3:</b> Hookah
+t4 = <b>4:</b> Beeri
+t5 = <b>5:</b> Cigars
+t6 = <b>6:</b> Sheesha
+t7 = <b>7:</b> Niswar/Tobacco Snuff
+t8 = <b>8:</b> Pipe full of Tobacco
+t9 = <b>9:</b> Fill Products
+t10 = <b>10:</b> Electronic Cigarettes/ Vapping devices (Ello, Geekvape, Relx)
+t11 = <b>11:</b> Any other (Specify)
+
+t1_c1 = Do you currently smoke/use Manufactured Cigarettes?
+t1_c1_1 = Rarely (1-2 times a month)
+t1_c1_2 = Occasionally (1-2 times a week)
+t1_c1_3 = Frequently (3-5 times a week)
+t1_c1_4 = Daily
+t1_c1_5 = Never
+
+t1_c2 = How many Manufactured Cigarettes? (Numbers)
+
+t1_c3 = Have you smoked/ used Manufactured Cigarettes in the past?
+t1_c3_1 = Rarely (1-2 times a month)
+t1_c3_2 = Occasionally (1-2 times a week)
+t1_c3_3 = Frequently (3-5 times a week)
+t1_c3_4 = Daily
+t1_c3_5 = Never
+
+
+t2_c1 = Do you currently smoke/use Hand Rolled Cigarettes?
+t2_c1_1 = Rarely (1-2 times a month)
+t2_c1_2 = Occasionally (1-2 times a week)
+t2_c1_3 = Frequently (3-5 times a week)
+t2_c1_4 = Daily
+t2_c1_5 = Never
+
+t2_c2 = How many Hand Rolled Cigarettes? (Numbers)
+
+t2_c3 = Have you smoked/ used Hand Rolled Cigarettes in the past?
+t2_c3_1 = Rarely (1-2 times a month)
+t2_c3_2 = Occasionally (1-2 times a week)
+t2_c3_3 = Frequently (3-5 times a week)
+t2_c3_4 = Daily
+t2_c3_5 = Never
+
+
+t3_c1 = Do you currently smoke/use Hookah?
+t3_c1_1 = Rarely (1-2 times a month)
+t3_c1_2 = Occasionally (1-2 times a week)
+t3_c1_3 = Frequently (3-5 times a week)
+t3_c1_4 = Daily
+t3_c1_5 = Never
+
+t3_c2 = How many Hookah? (Numbers)
+
+t3_c3 = Have you smoked/ used Hookah in the past?
+t3_c3_1 = Rarely (1-2 times a month)
+t3_c3_2 = Occasionally (1-2 times a week)
+t3_c3_3 = Frequently (3-5 times a week)
+t3_c3_4 = Daily
+t3_c3_5 = Never
+
+
+t4_c1 = Do you currently smoke/use Beeri?
+t4_c1_1 = Rarely (1-2 times a month)
+t4_c1_2 = Occasionally (1-2 times a week)
+t4_c1_3 = Frequently (3-5 times a week)
+t4_c1_4 = Daily
+t4_c1_5 = Never
+
+t4_c2 = How many Beeri? (Numbers)
+
+t4_c3 = Have you smoked/ used Beeri in the past?
+t4_c3_1 = Rarely (1-2 times a month)
+t4_c3_2 = Occasionally (1-2 times a week)
+t4_c3_3 = Frequently (3-5 times a week)
+t4_c3_4 = Daily
+t4_c3_5 = Never
+
+
+t5_c1 = Do you currently smoke/use Cigars?
+t5_c1_1 = Rarely (1-2 times a month)
+t5_c1_2 = Occasionally (1-2 times a week)
+t5_c1_3 = Frequently (3-5 times a week)
+t5_c1_4 = Daily
+t5_c1_5 = Never
+
+t5_c2 = How many Cigars? (Numbers)
+
+t5_c3 = Have you smoked/ used Cigars in the past?
+t5_c3_1 = Rarely (1-2 times a month)
+t5_c3_2 = Occasionally (1-2 times a week)
+t5_c3_3 = Frequently (3-5 times a week)
+t5_c3_4 = Daily
+t5_c3_5 = Never
+
+
+t6_c1 = Do you currently smoke/use Sheesha?
+t6_c1_1 = Rarely (1-2 times a month)
+t6_c1_2 = Occasionally (1-2 times a week)
+t6_c1_3 = Frequently (3-5 times a week)
+t6_c1_4 = Daily
+t6_c1_5 = Never
+
+t6_c2 = How many Sheesha? (Numbers)
+
+t6_c3 = Have you smoked/ used Sheesha in the past?
+t6_c3_1 = Rarely (1-2 times a month)
+t6_c3_2 = Occasionally (1-2 times a week)
+t6_c3_3 = Frequently (3-5 times a week)
+t6_c3_4 = Daily
+t6_c3_5 = Never
+
+
+t7_c1 = Do you currently smoke/use Niswar/Tobacco Snuff?
+t7_c1_1 = Rarely (1-2 times a month)
+t7_c1_2 = Occasionally (1-2 times a week)
+t7_c1_3 = Frequently (3-5 times a week)
+t7_c1_4 = Daily
+t7_c1_5 = Never
+
+t7_c2 = How many Niswar/Tobacco Snuff? (Numbers)
+
+t7_c3 = Have you smoked/ used Niswar/Tobacco Snuff in the past?
+t7_c3_1 = Rarely (1-2 times a month)
+t7_c3_2 = Occasionally (1-2 times a week)
+t7_c3_3 = Frequently (3-5 times a week)
+t7_c3_4 = Daily
+t7_c3_5 = Never
+
+
+t8_c1 = Do you currently smoke/use Pipe full of Tobacco?
+t8_c1_1 = Rarely (1-2 times a month)
+t8_c1_2 = Occasionally (1-2 times a week)
+t8_c1_3 = Frequently (3-5 times a week)
+t8_c1_4 = Daily
+t8_c1_5 = Never
+
+t8_c2 = How many Pipe full of Tobacco? (Numbers)
+
+t8_c3 = Have you smoked/ used Pipe full of Tobacco in the past?
+t8_c3_1 = Rarely (1-2 times a month)
+t8_c3_2 = Occasionally (1-2 times a week)
+t8_c3_3 = Frequently (3-5 times a week)
+t8_c3_4 = Daily
+t8_c3_5 = Never
+
+
+t9_c1 = Do you currently smoke/use Fill Products?
+t9_c1_1 = Rarely (1-2 times a month)
+t9_c1_2 = Occasionally (1-2 times a week)
+t9_c1_3 = Frequently (3-5 times a week)
+t9_c1_4 = Daily
+t9_c1_5 = Never
+
+t9_c2 = How many Fill Products? (Numbers)
+
+t9_c3 = Have you smoked/ used Fill Products in the past?
+t9_c3_1 = Rarely (1-2 times a month)
+t9_c3_2 = Occasionally (1-2 times a week)
+t9_c3_3 = Frequently (3-5 times a week)
+t9_c3_4 = Daily
+t9_c3_5 = Never
+
+
+t10_c1 = Do you currently smoke/use Electronic Cigarettes/ Vapping devices?
+t10_c1_1 = Rarely (1-2 times a month)
+t10_c1_2 = Occasionally (1-2 times a week)
+t10_c1_3 = Frequently (3-5 times a week)
+t10_c1_4 = Daily
+t10_c1_5 = Never
+
+t10_c2 = How many Electronic Cigarettes/ Vapping devices? (Numbers)
+
+t10_c3 = Have you smoked/ used Electronic Cigarettes/ Vapping devices in the past?
+t10_c3_1 = Rarely (1-2 times a month)
+t10_c3_2 = Occasionally (1-2 times a week)
+t10_c3_3 = Frequently (3-5 times a week)
+t10_c3_4 = Daily
+t10_c3_5 = Never
+
+
+t11_c1 = Do you currently smoke/use Any other (Specify)?
+t11_c1_1 = Rarely (1-2 times a month)
+t11_c1_2 = Occasionally (1-2 times a week)
+t11_c1_3 = Frequently (3-5 times a week)
+t11_c1_4 = Daily
+t11_c1_5 = Never
+
+t11_c2 = How many Any other (Specify)? (Numbers)
+
+t11_c3 = Have you smoked/ used Any other (Specify) in the past?
+t11_c3_1 = Rarely (1-2 times a month)
+t11_c3_2 = Occasionally (1-2 times a week)
+t11_c3_3 = Frequently (3-5 times a week)
+t11_c3_4 = Daily
+t11_c3_5 = Never
